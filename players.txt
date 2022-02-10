@@ -1,0 +1,4 @@
+Peter / Johnson / 50 / team1
+Simon / Peterson / 34 / team2
+Taylor / Davies / 30 / team1
+John / Brown / 20 / team2
